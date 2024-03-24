@@ -1,6 +1,6 @@
 ## Hey, welcome to Start DevX GitHub organization 👋
 
-![Start DevX LinkedIn banner](./assets/light-linkedin-banner.png)
+![Start DevX LinkedIn banner](./profile/assets/light-linkedin-banner.png)
 
 Our philosophy is simple yet profound: by fostering high productivity among developers, businesses can unlock unprecedented potential and achieve their most ambitious goals. We recognize that in today's fast-paced digital landscape, speed is of the essence. That's why Start DevX specializes in providing approaches and solutions that accelerate development processes, enabling our clients to stay ahead of the curve.
 
