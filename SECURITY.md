@@ -4,4 +4,4 @@ If you believe you have found a security vulnerability in the repository, we enc
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) before any contribution.
 
-Send your security findings to security@startdevx.com.
+Send your security findings to kevin@startdevx.com.
