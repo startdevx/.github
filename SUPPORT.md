@@ -5,4 +5,4 @@ We encourage a contribution approach through the creation of an issue, a discuss
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) before any contribution.
 
 
-Send your support request to developer@startdevx.com.
+Send your support request to kevin@startdevx.com.
