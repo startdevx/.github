@@ -1,9 +1,9 @@
 ## Hey, welcome to Start DevX GitHub organization 👋
 
-We believe IT transformation isn’t about adopting the latest tools but about aligning people, process, and technology around meaningful outcomes.
+Start DevX helps organizations build better engineering cultures through smarter platforms, stronger teams, and meaningful change.
 
-Our focus is on Developer's Experience (DevX), DevOps transformation, and change that actually sticks. We work closely with your delivery and technical teams to improve how software is built, shipped, and operated, so they can move faster, with more confidence and less friction.
+We specialize in platform engineering, developer experience (DevEx), and open-source solutions, combining deep technical expertise with a clear understanding of how people and processes evolve.
 
-From modernizing CI/CD pipelines to redesigning internal platforms and enabling team autonomy, we bring a grounded mix of technical expertise, organizational insight, and practical change management.
+Our vision is clear: IT transformation only works when technology and teams move forward together. That’s why we work side by side with delivery, operations, and leadership teams to improve how software is built, deployed, and managed, while guiding the cultural and organizational shifts that make those improvements last.
 
-Whether you're scaling quickly, navigating complexity, or trying to remove what’s slowing your teams down, we are here to help you build a stronger engineering culture, supported by systems that enable it.
+Whether you need to modernize your CI/CD pipelines, bring internal platforms, or enable greater developer autonomy, Start DevX brings a balanced mix of engineering precision and change management experience to every engagement.
